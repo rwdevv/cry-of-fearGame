@@ -5,4 +5,4 @@
 * CSS3
 * JavaScript
 
-Play the game on <a href="https://store.steampowered.com/app/223710/Cry_of_Fear/" target="_blank">Steam</a>.
+Play the game on <a href="https://store.steampowered.com/app/223710/Cry_of_Fear/" target="_blank">Steam.</a>
